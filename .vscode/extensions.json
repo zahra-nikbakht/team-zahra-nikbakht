@@ -1,0 +1,30 @@
+{
+  "recommendations": [
+    // === Core Essentials ===
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-typescript-next",
+
+    // === React & TypeScript ===
+    "infeng.vscode-react-typescript",
+    "pmneo.tsimporter",
+    "aaron-bond.better-comments",
+
+    // === Styling (Tailwind/CSS) ===
+    "bradlc.vscode-tailwindcss",
+    "naumovs.color-highlight",
+
+    // === Error & Performance ===
+    "usernamehw.errorlens",
+    "wix.vscode-import-cost",
+
+    // === Productivity Boosters ===
+    "eamodio.gitlens",
+    "mikestead.dotenv",
+
+    // === Optional (Advanced) ===
+    "orta.vscode-jest",
+    "csstools.postcss",
+    "ms-azuretools.vscode-docker"
+  ]
+}
